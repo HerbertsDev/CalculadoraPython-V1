@@ -1,4 +1,4 @@
-# 🧮 Calculadora HC - 1.0
+# Calculadora HC - 1.0
 
 Projeto desenvolvido em Python para praticar lógica de programação.
 
